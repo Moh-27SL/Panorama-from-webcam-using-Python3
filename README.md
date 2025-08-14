@@ -6,7 +6,7 @@ It displays a live feed prompting you to **rotate your camera slowly**, then gen
 ---
 
 ## Example Output
- ![EXAMPLE](exmpl.PNG)
+ ![EXAMPLE](exmpl.png)
  
 ---
 
